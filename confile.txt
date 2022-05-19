@@ -1,0 +1,2 @@
+This file will conflict with the confile.txt in master.
+use mergetool to fix it.
