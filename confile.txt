@@ -1,2 +1,2 @@
-This file is having a conflict with other branch.
+conflict has been solved.
 use mergetool to fix it.
