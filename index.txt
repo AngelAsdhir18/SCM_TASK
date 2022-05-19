@@ -1,0 +1,3 @@
+Hi!
+This is a example of merge conflict.
+We'll be fixing Conflicts.
